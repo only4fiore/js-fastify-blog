@@ -1,4 +1,6 @@
-node_modules/
-dist/
+ext
+node_modules
 .env
 *.sqlite
+*.test.sqlite
+.git
